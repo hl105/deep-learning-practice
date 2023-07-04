@@ -2,17 +2,17 @@
 Yonsei University Summer 2023 Research Internship
 
 
-# K-means clustering practice 
-#### Yonsei University Deep Learning 4-2
-#### July 4th, 2023
+## K-means clustering practice 
+##### Yonsei University Deep Learning 4-2
+##### July 4th, 2023
 
-###  Unsupervised learning algorithm: clustering
+####  Unsupervised learning algorithm: clustering
 - detect innate patterns in unlabeled data
 - its useful when you don't know what you're looking for
 - requires data, but not the labels
 - results may not make sense
 
-### What is K-means clustering?
+#### What is K-means clustering?
 - Clustering: group together "similar" (option: small squared Euclidean distance) instances
 - K: number of clusters. user defined hyper-parameter
 - it's non-deterministic (output changes depending on input)
